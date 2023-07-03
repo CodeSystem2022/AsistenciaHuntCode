@@ -1,4 +1,4 @@
-![image](https://github.com/CodeSystem2022/AsistenciaHuntCode/assets/115046887/84bf5e26-2031-4f60-95dc-06ec15dee8c7)# AsistenciaHuntCode  Y cajero automatico el cual pertenece al TRABAJO INTEGRADOR
+# Asistencia Hunt Code y cajero automatico el cual pertenece al TRABAJO INTEGRADOR.
 
 Andres Ramirez
 <br/>
