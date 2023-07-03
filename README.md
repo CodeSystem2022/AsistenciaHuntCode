@@ -1,6 +1,8 @@
-# AsistenciaHuntCode  Y cajero automatico el cual pertenece al TRABAJO INTEGRADOR
+![image](https://github.com/CodeSystem2022/AsistenciaHuntCode/assets/115046887/84bf5e26-2031-4f60-95dc-06ec15dee8c7)# AsistenciaHuntCode  Y cajero automatico el cual pertenece al TRABAJO INTEGRADOR
 
-Nicol Peñalve
+Andres Ramirez
+<br/>
+Daiana Suarez
 <br/>
 Franco Botto
 <br/>
@@ -10,10 +12,8 @@ Lucas Lopez
 <br/>
 Mayra Medina
 <br/>
-Ramirez Andres
+Nicol Peñalve
 <br/>
 Ricardo Modon
 <br/>
 Santiago Bergerat
-<br/>
-Daiana Suarez
